@@ -1,0 +1,4 @@
+.cadre{
+  display: flex;
+  flex-direction: column;
+}
